@@ -1,0 +1,17 @@
+hdbscan==0.8.40
+joblib==1.5.1
+lightgbm==4.6.0
+numpy==2.2.6
+pandas==2.3.1
+PyMuPDF==1.26.3
+python-dateutil==2.9.0.post0
+pytz==2025.2
+RapidFuzz==3.13.0
+scikit-learn==1.7.1
+scipy==1.15.3
+six==1.17.0
+thefuzz==0.22.1
+threadpoolctl==3.6.0
+tqdm==4.67.1
+tzdata==2025.2
+xgboost==3.0.2
